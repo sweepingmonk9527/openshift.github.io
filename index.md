@@ -2,9 +2,21 @@
 
 [link to w3!](http://w3.ibm.com)
 
+~~this~~
+
 # This is an  tag
 ## This is an  tag
 ###### This is an  tag
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
+http://github.com - automatic!
+
+[GitHub](http://github.com)
 
 * Item 1
 * Item 2
@@ -46,3 +58,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
